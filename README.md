@@ -1,7 +1,7 @@
 
 # KissORM
 
-This project was moved to [github.com/vingarcia/kisssql](https://github.com/vingarcia/kisssql),
+This project was moved to [github.com/vingarcia/ksql](https://github.com/vingarcia/ksql),
 the reason was that programmers that don't like ORMs were avoiding this library at all costs,
 and programmers that do like it were complaining it didn't do magic with relationships (which is comprehensible).
 
